@@ -1,0 +1,54 @@
+{
+  "name": "DP19BeastModeDemo",
+  "version": "1.0.0",
+  "size": {
+    "width": 3,
+    "height": 3
+  },
+  "mapping": [
+    {
+      "dataSetId": "694e10a5-b47d-401d-a954-de92679d6b2d",
+      "alias": "salesTable",
+      "fields": [
+        {
+          "alias": "Date",
+          "columnName": "Date"
+        },
+        {
+          "alias": "RepID",
+          "columnName": "RepID"
+        },
+        {
+          "alias": "FirstName",
+          "columnName": "FirstName"
+        },
+        {
+          "alias": "LastName",
+          "columnName": "LastName"
+        },
+        {
+          "alias": "Sales",
+          "columnName": "Sales"
+        },
+        {
+          "alias": "Expenses",
+          "columnName": "Expenses"
+        },
+        {
+          "alias": "Profit",
+          "columnName": "Profit"
+        },
+        {
+          "alias": "ProfitSum",
+          "columnName": "ProfitSum"
+        },
+        {
+          "alias": "FullName",
+          "columnName": "FullName"
+        }
+      ]
+    }
+  ],
+  "id": "2c7cf001-66f4-4a78-a9dd-565187e5f765",
+  "proxyId": "c3f786ca-d8b6-4fee-90eb-baae09f217eb"
+}
